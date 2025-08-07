@@ -2,11 +2,12 @@
 layout: page
 title: Thesis Appendices
 permalink: /appendices/
+description: Online Supplementary Materials of PhD Thesis Chapters
+nav: true
+nav_order: 3
 ---
 
-## My Publications
-
-Here is a list of the appendices of the Chapters in my PhD Thesis.
+## Online Supplementary Materials of PhD Thesis Chapters
 
 * [Chapter 3: Dynamic prediction of mortality in COVID‑19 patients in the intensive care unit: A retrospective multi‑center cohort study (2022)](/assets/pdf/appendix_chapter_3.pdf)
 * [Chapter 4: Development and validation of an early warning model for hospitalized COVID‑19 patients: a multi‑center retrospective cohort study (2022)](/assets/pdf/appendix_chapter_4.pdf)
