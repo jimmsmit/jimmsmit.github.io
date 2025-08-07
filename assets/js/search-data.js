@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-thesis-appendices",
+          title: "Thesis Appendices",
+          description: "Online Supplementary Materials of PhD Thesis Chapters",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/appendices/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
